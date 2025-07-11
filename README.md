@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, and Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://thesibaji.github.io/Sibaji_Khillar/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://thesibaji.github.io/Sibaji_Khillar/)
 
 - 💬 Ask me about **Java, Spring Boot, HTML, CSS, JavaScript, React.js, Tailwind CSS, Oracle, SQL, AWS**
 
 - 📫 Reach me at **sibajikhillar@gmail.com**
 
-- 📄 Know about my experiences [here (Resume)](https://drive.google.com/file/d/17aE4ptFHeedFWAl_M5AoyJTumI9sIR38/view?usp=sharing)
+- 📄 Know about my experiences here [Resume](https://drive.google.com/file/d/17aE4ptFHeedFWAl_M5AoyJTumI9sIR38/view?usp=sharing)
 
 ---
 
