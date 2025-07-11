@@ -48,7 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/>
 
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40" height="40"/>
 </p>
 
 
@@ -74,7 +74,7 @@
 
   <!-- Gmail -->
   <a href="mailto:sibajikhillar@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="40" width="40" />
+    <img align="center" src="https://www.gstatic.com/images/icons/material/system/2x/gmail_48dp.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
