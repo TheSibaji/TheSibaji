@@ -67,9 +67,17 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sibajikhillar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
-  <a href="mailto:sibajikhillar@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sibajikhillar" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:sibajikhillar@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="40" width="40" />
+  </a>
 </p>
+
 
 ---
 
