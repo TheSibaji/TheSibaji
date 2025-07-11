@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sibaji</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Software+Engineer;Full+Stack+Developer;&center=true&width=500&height=40&color=0e75b6&pause=1000" alt="Typing SVG" />
+</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheSibaji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -43,7 +47,12 @@
 </p>
 
 ---
+### 🧠 Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSibaji&layout=compact&theme=default" alt="Top Languages" />
+</p>
+---
 ### 🔗 Connect with Me
 
 <p align="left">
