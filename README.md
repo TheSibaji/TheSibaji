@@ -57,9 +57,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibajikhillar&show_icons=true&locale=en" alt="sibajikhillar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSibaji&show_icons=true&locale=en" alt="TheSibaji" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibajikhillar" alt="sibajikhillar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSibaji" alt="TheSibaji" />
 </p>
 
 ---
