@@ -52,7 +52,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSibaji&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
 ---
+
 ### 🔗 Connect with Me
 
 <p align="left">
